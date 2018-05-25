@@ -1,0 +1,4 @@
+3 6 2 0 4 1
+2100 1100 1200 2001
+show bind2 moveR show
+GP10 FFF0 FP20 GGG0

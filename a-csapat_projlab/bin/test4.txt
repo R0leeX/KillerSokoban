@@ -1,0 +1,4 @@
+3 6 2 0 3 1
+2000 2101 1200 1100
+show moveR show
+GGG0 GGG0 FP10 FC10

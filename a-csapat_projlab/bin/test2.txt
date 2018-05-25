@@ -1,0 +1,4 @@
+3 7 2 1 4 1
+4101 2000 2101 1200 3001
+show bind2 moveR show
++++0 GGG0 GGG0 FP20 SC10
